@@ -1,0 +1,17 @@
+{
+  "release": "runtime-sync-20261117",
+  "core_version": "7.2.95",
+  "core_commit": "f71ec0eb",
+  "core_sha256": "2be8e4581fe802fe522126b273bc099c01910b6179dca4a4e1b451dd0c80a1c0",
+  "namespace": "environment-69fc6d9de5ed304c1d8452b4",
+  "deployment": "service-69fc6e858e7cc21f9f506620",
+  "startup_configmap": "config-69fc6e858e7cc21f9f50662b",
+  "plugins": {
+    "cpa-usage-statistics": "0.6.1",
+    "cpa-quota-estimator": "0.21.4"
+  },
+  "egress_binary_version": "1.19.33",
+  "egress_listen": "127.0.0.1:17897",
+  "private_config": "/home/node/.cli-proxy-api/config.yaml",
+  "private_egress_config": "/home/node/.cli-proxy-api/gemini-egress/config.yaml"
+}
